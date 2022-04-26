@@ -1,0 +1,14 @@
+C:\Temp\TryOuts\Instrumentation\event-hub\publisher\bin\Debug\netcoreapp2.1\publisher.deps.json
+C:\Temp\TryOuts\Instrumentation\event-hub\publisher\bin\Debug\netcoreapp2.1\publisher.runtimeconfig.json
+C:\Temp\TryOuts\Instrumentation\event-hub\publisher\bin\Debug\netcoreapp2.1\publisher.runtimeconfig.dev.json
+C:\Temp\TryOuts\Instrumentation\event-hub\publisher\bin\Debug\netcoreapp2.1\publisher.dll
+C:\Temp\TryOuts\Instrumentation\event-hub\publisher\bin\Debug\netcoreapp2.1\publisher.pdb
+C:\Temp\TryOuts\Instrumentation\event-hub\publisher\bin\Debug\netcoreapp2.1\common.dll
+C:\Temp\TryOuts\Instrumentation\event-hub\publisher\bin\Debug\netcoreapp2.1\common.pdb
+C:\Temp\TryOuts\Instrumentation\event-hub\publisher\obj\Debug\netcoreapp2.1\publisher.csprojAssemblyReference.cache
+C:\Temp\TryOuts\Instrumentation\event-hub\publisher\obj\Debug\netcoreapp2.1\publisher.csproj.CoreCompileInputs.cache
+C:\Temp\TryOuts\Instrumentation\event-hub\publisher\obj\Debug\netcoreapp2.1\publisher.AssemblyInfoInputs.cache
+C:\Temp\TryOuts\Instrumentation\event-hub\publisher\obj\Debug\netcoreapp2.1\publisher.AssemblyInfo.cs
+C:\Temp\TryOuts\Instrumentation\event-hub\publisher\obj\Debug\netcoreapp2.1\publisher.csproj.CopyComplete
+C:\Temp\TryOuts\Instrumentation\event-hub\publisher\obj\Debug\netcoreapp2.1\publisher.dll
+C:\Temp\TryOuts\Instrumentation\event-hub\publisher\obj\Debug\netcoreapp2.1\publisher.pdb

@@ -1,0 +1,9 @@
+C:\Temp\TryOuts\Instrumentation\event-hub\common\bin\Debug\netstandard2.0\common.deps.json
+C:\Temp\TryOuts\Instrumentation\event-hub\common\bin\Debug\netstandard2.0\common.dll
+C:\Temp\TryOuts\Instrumentation\event-hub\common\bin\Debug\netstandard2.0\common.pdb
+C:\Temp\TryOuts\Instrumentation\event-hub\common\obj\Debug\netstandard2.0\common.csprojAssemblyReference.cache
+C:\Temp\TryOuts\Instrumentation\event-hub\common\obj\Debug\netstandard2.0\common.csproj.CoreCompileInputs.cache
+C:\Temp\TryOuts\Instrumentation\event-hub\common\obj\Debug\netstandard2.0\common.AssemblyInfoInputs.cache
+C:\Temp\TryOuts\Instrumentation\event-hub\common\obj\Debug\netstandard2.0\common.AssemblyInfo.cs
+C:\Temp\TryOuts\Instrumentation\event-hub\common\obj\Debug\netstandard2.0\common.dll
+C:\Temp\TryOuts\Instrumentation\event-hub\common\obj\Debug\netstandard2.0\common.pdb

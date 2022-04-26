@@ -1,0 +1,14 @@
+C:\Temp\TryOuts\Instrumentation\event-hub\consumer\bin\Debug\netcoreapp2.1\consumer.deps.json
+C:\Temp\TryOuts\Instrumentation\event-hub\consumer\bin\Debug\netcoreapp2.1\consumer.runtimeconfig.json
+C:\Temp\TryOuts\Instrumentation\event-hub\consumer\bin\Debug\netcoreapp2.1\consumer.runtimeconfig.dev.json
+C:\Temp\TryOuts\Instrumentation\event-hub\consumer\bin\Debug\netcoreapp2.1\consumer.dll
+C:\Temp\TryOuts\Instrumentation\event-hub\consumer\bin\Debug\netcoreapp2.1\consumer.pdb
+C:\Temp\TryOuts\Instrumentation\event-hub\consumer\bin\Debug\netcoreapp2.1\common.dll
+C:\Temp\TryOuts\Instrumentation\event-hub\consumer\bin\Debug\netcoreapp2.1\common.pdb
+C:\Temp\TryOuts\Instrumentation\event-hub\consumer\obj\Debug\netcoreapp2.1\consumer.csprojAssemblyReference.cache
+C:\Temp\TryOuts\Instrumentation\event-hub\consumer\obj\Debug\netcoreapp2.1\consumer.csproj.CoreCompileInputs.cache
+C:\Temp\TryOuts\Instrumentation\event-hub\consumer\obj\Debug\netcoreapp2.1\consumer.AssemblyInfoInputs.cache
+C:\Temp\TryOuts\Instrumentation\event-hub\consumer\obj\Debug\netcoreapp2.1\consumer.AssemblyInfo.cs
+C:\Temp\TryOuts\Instrumentation\event-hub\consumer\obj\Debug\netcoreapp2.1\consumer.csproj.CopyComplete
+C:\Temp\TryOuts\Instrumentation\event-hub\consumer\obj\Debug\netcoreapp2.1\consumer.dll
+C:\Temp\TryOuts\Instrumentation\event-hub\consumer\obj\Debug\netcoreapp2.1\consumer.pdb
